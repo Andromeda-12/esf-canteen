@@ -1,4 +1,4 @@
-# esf_canteen
+# EatSibFu Canteen
 
 ## Project setup
 ```
